@@ -11,12 +11,21 @@
         }
       },
       {
+        "package": "CoreOSC",
+        "repositoryURL": "https://github.com/sammysmallman/CoreOSC.git",
+        "state": {
+          "branch": null,
+          "revision": "c8f1080e31dae7bcfbd1660018f2ed8b11228e1a",
+          "version": "1.1.0"
+        }
+      },
+      {
         "package": "OSCKit",
         "repositoryURL": "https://github.com/SammySmallman/OSCKit",
         "state": {
           "branch": null,
-          "revision": "09c886c99a140de784b6f060453fbfa7d6aa9503",
-          "version": "2.1.5"
+          "revision": "f5982778ddfe573d82d9a1137dbfea17bb52989b",
+          "version": "3.1.0"
         }
       },
       {
