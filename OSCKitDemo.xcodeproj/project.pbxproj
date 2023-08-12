@@ -343,7 +343,7 @@
 			repositoryURL = "https://github.com/SammySmallman/OSCKit";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 3.1.0;
+				minimumVersion = 3.2.0;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
